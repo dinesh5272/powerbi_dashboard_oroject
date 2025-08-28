@@ -1,1 +1,1 @@
-# powerbi_dashboard_oroject
+# powerbi_dashboard_project
